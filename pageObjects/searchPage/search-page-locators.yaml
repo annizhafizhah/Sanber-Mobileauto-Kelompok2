@@ -1,0 +1,4 @@
+input_flight_number: '//android.widget.EditText[@resource-id="com.example.myapplication:id/inputflightnumber"]'
+no_flights_found: '//div[contains(text(), "No flights found")]'
+search_field_error: '//div[contains(text(), "Please enter a valid flight number")]'
+search_button: '//android.widget.Button[@resource-id="com.example.myapplication:id/button6" and @text="Search"]'
